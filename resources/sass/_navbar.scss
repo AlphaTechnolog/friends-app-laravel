@@ -1,0 +1,8 @@
+@import 'navbar_variables';
+
+body {
+    .nav-contained {
+        padding-right: $nav--contained--padding-right;
+        padding-left: $nav--contained--padding-left;
+    }
+}
